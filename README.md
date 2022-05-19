@@ -1,4 +1,4 @@
-# Projeto de Avaliação de Filmes
+# Site de Avaliação de Filmes
 
 ## Tecnologias
 
@@ -13,3 +13,11 @@
 
 * Java
 * Spring Boot
+
+### Dependências
+
+* Spring Data JPA
+* Spring Security
+* Spring Web
+* Banco de Dados H2 (em memória)
+* Postgresql
